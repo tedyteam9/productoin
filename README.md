@@ -1,0 +1,2 @@
+# productoin
+tedpeng未来所领导的团队，团队的名字叫tedyteam9，仓库的名称叫production，寓意是按照做产品的要求做项目。9的意思是不能达到完美但要追求极致。
